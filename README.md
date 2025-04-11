@@ -39,7 +39,7 @@ pip install flask
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/half-life-calculator.git
+git clone https://github.com/29008922/half-life-calculator.git
 cd half-life-calculator
 3. Run the App
 bash
@@ -107,8 +107,8 @@ Add quiz or practice section
 This project is open-source and free to use for educational purposes.
 
 🙋‍♂️ Maintainer
-Developed by: Your Name
-Email: your.email@example.com
+Developed by: Haron Murumba
+Email: haron.murumba22@gmail.com
 
 🤝 Contributions
 Feel free to fork this repository and contribute with improvements, bug fixes, or educational enhancements.
